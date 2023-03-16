@@ -1,0 +1,6 @@
+hello to run the angular crdu project open a terminal in visual code
+json-server --watch db.json
+run the command
+
+then in another terminal
+ng serve
