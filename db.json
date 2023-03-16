@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 25,
+      "comment": "fruta de temporada",
+      "date": "2023-03-10T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "naranja",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "temporada",
+      "date": "2023-03-10T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Pera",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "fruta",
+      "date": "2023-03-11T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Mora",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "fruta",
+      "date": "2023-03-11T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Pepa",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "dd",
+      "date": "2023-03-11T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Naranjilla",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "jugo",
+      "date": "2023-03-11T05:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
